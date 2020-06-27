@@ -1,4 +1,5 @@
 #Logistic Regression
+
 ##Given a tweet, you will decide if it has a positive sentiment or a negative one. Specifically you will:
 
 ###Learn how to extract features for logistic regression given some text
